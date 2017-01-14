@@ -1,19 +1,11 @@
 {
-  "name": "starter_pack",
+  "name": "linter_configs",
   "version": "1.0.0",
-  "description": "All the stuff I usually need",
-  "dependencies": {
-    "eslint": "^3.13.1",
-    "eslint-config-airbnb-base": "^11.0.1",
-    "eslint-plugin-import": "^2.2.0"
-  },
+  "description": "Default configurations for eslint, jscs, jshint using Airbnb style guide",
   "devDependencies": {
     "eslint": "^3.13.1",
     "eslint-config-airbnb-base": "^11.0.1",
     "eslint-plugin-import": "^2.2.0"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "JW Garrison",
   "license": "MIT"
